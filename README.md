@@ -8,9 +8,9 @@
 
 ## 🚀 Skills
 
-- **Languages:** Java, HTML, CSS, JavaScript
+- **Languages:** Java, HTML, CSS, JavaScript,  R-Programming
 - **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
-- **Tools & Platforms:** GitHub, VS Code, Git, Netlify, Firebase
+- **Tools & Platforms:** Excel, Tableau, Git
 - **Learning:** Full-Stack Development, Open Source Contribution
 
 ---

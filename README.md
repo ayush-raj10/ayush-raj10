@@ -2,16 +2,16 @@
 
 🎓 Lifelong learner | Aspiring Software Engineer  
 💻 Passionate about coding, clean design, and solving real-world problems  
-🛠️ Skilled in Java, DSA, Web Development, and more
+🛠️ Skilled in Java, Python,Data Science Skills,SQL and more
 
 ---
 
 ## 🚀 Skills
 
-- **Languages:** Java, HTML, CSS, JavaScript,  R-Programming
-- **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming
-- **Tools & Platforms:** Excel, Tableau, Git
-- **Learning:** Full-Stack Development, Open Source Contribution
+- **Languages:** Java,Pthon,  R-Programming
+- **Core Concepts:** SQL, Data Structures & Algorithms, Object-Oriented Programming,
+- **Tools & Platforms:** Excel, Tableau
+
 
 ---
 
@@ -19,6 +19,7 @@
 
 - ✅ [DSA Self-Paced - GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/30f95ae853878d085263c26aa845c327.pdf)
 - ✅ [Fundamentals of Management - Coursera](https://coursera.org/verify/QRTCQEDPPK3N)
+- 🏆 Cloud Computing – NPTEL (April 2025)
 - 🏆 Apna College (Alpha DSA)
 - 🏆 Udemy Web Development Bootcamp – Dr. Angela Yu
 - 🏆 Goldman Sachs Job Simulation – Forage
@@ -31,10 +32,12 @@
 ## 💼 Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
+|---------|-------------|------------|
 | **Portfolio Website** | A personal portfolio website built using HTML, CSS, and JavaScript | HTML, CSS, JS |
 | **Password Cracker Sim (Forage)** | Simulation-based challenge completed as part of Goldman Sachs Virtual Internship | Python, Cybersecurity |
 | **DSA Problems** | A collection of DSA problems solved and organized | Java |
+| **Titanic Survival Prediction** | Built a classification model to predict passenger survival on the Titanic dataset using logistic regression and decision tree; performed data cleaning, EDA, and visualization | R, ggplot2, caret, dplyr, tidyr |
+| **Credit Card Fraud Detection** | Developed a fraud detection model using real credit card data; applied ML techniques, balanced datasets, and evaluated performance | Python, Pandas, Scikit-learn |
 
 ---
 

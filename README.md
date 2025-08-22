@@ -33,9 +33,6 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Portfolio Website** | A personal portfolio website built using HTML, CSS, and JavaScript | HTML, CSS, JS |
-| **Password Cracker Sim (Forage)** | Simulation-based challenge completed as part of Goldman Sachs Virtual Internship | Python, Cybersecurity |
-| **DSA Problems** | A collection of DSA problems solved and organized | Java |
 | **Titanic Survival Prediction** | Built a classification model to predict passenger survival on the Titanic dataset using logistic regression and decision tree; performed data cleaning, EDA, and visualization | R, ggplot2, caret, dplyr, tidyr |
 | **Credit Card Fraud Detection** | Developed a fraud detection model using real credit card data; applied ML techniques, balanced datasets, and evaluated performance | Python, Pandas, Scikit-learn |
 

@@ -2,7 +2,7 @@
 
 🎓 Lifelong learner | Aspiring Software Engineer  
 💻 Passionate about coding, clean design, and solving real-world problems  
-🛠️ Skilled in Java, Python,Data Science Skills,SQL and more
+🛠️ Skilled in Java, Python, Data Science Skills, SQL and more
 
 ---
 

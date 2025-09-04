@@ -16,8 +16,8 @@
 
 ## 📜 Certificates
 
-- ✅ [DSA Self-Paced - GeeksforGeeks](https://media.geeksforgeeks.org/courses/certificates/30f95ae853878d085263c26aa845c327.pdf)  
-- ✅ [Fundamentals of Management - Coursera](https://coursera.org/verify/QRTCQEDPPK3N)  
+- 🏆 DSA Self-Paced - GeeksforGeeks
+- 🏆 Fundamentals of Management - Coursera
 - 🏆 Cloud Computing – NPTEL (April 2025)  
 - 🏆 Apna College (Alpha DSA)  
 - 🏆 Udemy Web Development Bootcamp – Dr. Angela Yu  
